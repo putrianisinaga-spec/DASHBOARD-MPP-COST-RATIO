@@ -1,0 +1,7 @@
+{
+  "name": "C&B | MPP Optimization Dashboard",
+  "description": "Executive Compensation & Benefit and Manpower Planning Optimization Dashboard for Human Capital & Operations Management",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
